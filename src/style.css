@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Odibee+Sans&display=swap');
+body {
+    font-family: 'Odibee Sans', cursive;
+    margin: 0.5cm;
+    background: rgb(39, 136, 91);
+}
+
+body>p {
+    text-align: center;
+    font-size: 50px;
+}
+
+.input {
+    text-align: center;
+}
+
+#inputNumber {
+    font-size: 25px;
+}
